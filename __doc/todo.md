@@ -9,8 +9,8 @@
     [x] Créer un ficher `ocolis_r2.sql` pour modifier la base de donnée existante
 
     Autres modifications à apporter
-    [] Respecter une nomenclature pour s'y retrouver `ocolis_20200818.sql`,`ocolis_20200929.sql` etc...
-    [] Documenter la façon de déployer la base dans sa toute dernière version
+    [x] Respecter une nomenclature pour s'y retrouver `ocolis_20200818.sql`,`ocolis_20200929.sql` etc...
+    [x] Documenter la façon de déployer la base dans sa toute dernière version
 
 ### Numéros de série unique
     [] Produire un fichier `ocolis_r3sql`
