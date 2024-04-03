@@ -1,11 +1,6 @@
 BEGIN;
 
-ALTER TABLE IF EXISTS package;
-
-ALTER TABLE package (
-    ALTER COLUMN serial_number TYPE VARCHAR(36),
-);
+ALTER TABLE package
+ALTER COLUMN serial_number TYPE VARCHAR(36);
 
 COMMIT;
-
-c
