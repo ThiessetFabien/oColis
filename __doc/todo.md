@@ -17,9 +17,9 @@
     [x] Modifier le `serial_number` en UNIQUE
 
 ### Volume plus simple à gérer
-    [] Produire un fichier `ocolis_r4.sql`
-    [] Renommer la colonne volume
-    [] Ajout de deux colonnes `width` & `height`
+    [x] Produire un fichier `ocolis_r4.sql`
+    [x] Renommer la colonne volume en height
+    [x] Ajout de deux colonnes `width` & `depth`
         => elles ont à défaut la valeur 1
 
 ### Traçabilité
