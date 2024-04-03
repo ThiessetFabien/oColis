@@ -6,7 +6,7 @@
 
 ### Numéros de série en hexadecimal
     [x] Modifier la colonne `serial_number` en champ texte sur une base 36
-    [] Créer un ficher `ocolis_r2.sql` pour modifier la base de donnée existante
+    [x] Créer un ficher `ocolis_r2.sql` pour modifier la base de donnée existante
 
     Autres modifications à apporter
     [] Respecter une nomenclature pour s'y retrouver `ocolis_20200818.sql`,`ocolis_20200929.sql` etc...
