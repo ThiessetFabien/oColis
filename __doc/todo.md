@@ -25,10 +25,10 @@
 ### Traçabilité
     [x] Produire un fichier `ocolis_r5.sql`
     Ajouter 3 dates à la table `package`
-        [x] `request_time`, rempli automatiquement à l'insertion d'une ligne
-        [x] `expedition_time` null à défaut, jusqu'à la saisie par le livreur (au moment où il quiette l'entrepôt avec le colis dans le camion)
-        [x] `delivered_time` null à défaut, date où le colis a été livré
+        [] `request_time`, rempli automatiquement à l'insertion d'une ligne
+        [] `expedition_time` null à défaut, jusqu'à la saisie par le livreur (au moment où il quiette l'entrepôt avec le colis dans le camion)
+        [] `delivered_time` null à défaut, date où le colis a été livré
 
 ### Ca passe ou sa casse
-    [] Créer une BDD `ocolis` 
-    [] Lancer les scripts avec psql
+    [x] Créer une BDD `ocolis` 
+    [x] Lancer les scripts avec psql
