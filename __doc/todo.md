@@ -13,8 +13,8 @@
     [x] Documenter la façon de déployer la base dans sa toute dernière version
 
 ### Numéros de série unique
-    [] Produire un fichier `ocolis_r3sql`
-    [] Modifier le `serial_number` en UNIQUE
+    [x] Produire un fichier `ocolis_r3.sql`
+    [x] Modifier le `serial_number` en UNIQUE
 
 ### Volume plus simple à gérer
     [] Produire un fichier `ocolis_r4.sql`
